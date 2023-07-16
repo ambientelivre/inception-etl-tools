@@ -20,6 +20,9 @@ Generete 100 rown with name newColumn and exec a function TalendString.getAsciiR
 
 ![Talend Project](documentations/images/talend-demo-sample-project.png)
 
+### Apache Hop - Sample Simple Project in 
+Generete 100 rows, create a colunm with name newColumn with Step Random Value, write a log.
+![Apache Hop Project](documentations/images/apache-hop-demo-sample-project.png)
 
 
 # License 
