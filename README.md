@@ -35,7 +35,7 @@ Generate 100 rows, create a colunm with name newColumn with Step Random Value, w
 # Roadmap.
 This project is currently being developed around a curiosity, and has no intention of becoming a product at the moment, but if you want to sponsor its development, it will be a challenge that we would like to be together.
 
-- Version 0.01 - Developed models for comparing XML and artifacts from Apache Hop, Pentaho Data Integration and Talend tools. 
+- Version 0.01 - Developed models for comparing XML and artefacts from Apache Hop, Pentaho Data Integration and Talend tools. 
 - Version 0.02 - Migrate Sample ETL Pentaho to Talend (in process)...
 
 # License.
