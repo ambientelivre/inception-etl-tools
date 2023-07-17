@@ -38,5 +38,9 @@ This project is currently being developed around a curiosity, and has no intenti
 - Version 0.01 - Developed models for comparing XML and artefacts from Apache Hop, Pentaho Data Integration and Talend tools. 
 - Version 0.02 - Migrate Sample ETL Pentaho to Talend (in process)...
 
+# References.
+
+End-to-End ETL Migration Solution in https://www.bitwiseglobal.com/en-us/etl-converter/
+
 # License.
 Apache License 2.0
