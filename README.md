@@ -9,9 +9,16 @@ Starting with the question of the best way to migrate ETLs from Pentaho Data Int
 The great difficulty of migrating from one ETL model to another and the way each one determined to solve their data transformation, in one of our basic tests (Pentaho to Talend) it is clear that we will not be able to perform a migration from 1 step to 1 step, but the whole context of the ETL must be understood, in the example documented here, 3 steps in Pentaho became 2 steps in Talend.
 
 ## Sample Project
- Projects with similar write in differet ETL Tools, generete 100 rown with name newColumn, value random and write a log. 
 
-### Pentaho Data Integration - Sample Simple Project in 
+All similar Projects write in differet ETL Tools.
+ 
+Escope:
+1) Generate 100 rows with name newColumn and random string data.
+2) Stream the data in ETL.
+3) Write a log of data. 
+
+
+### Pentaho Data Integration - Sample Simple Project
 Generate 100 rows, create a colunm with name newColumn with Step Random Value, write a log.
 ![Pentaho Data Integration Project](documentations/images/pentaho-data-integration-demo-sample-project.png)
  
